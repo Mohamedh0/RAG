@@ -30,7 +30,8 @@ A RAG (Retrieval-Augmented Generation) powered medical chatbot that provides acc
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/Medical-Chatbot.git
+   git clone https://github.com/Mohamedh0/RAG.git
+   cd RAG
    cd Medical-Chatbot
    ```
 
