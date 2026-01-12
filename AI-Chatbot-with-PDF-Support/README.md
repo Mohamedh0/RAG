@@ -32,24 +32,18 @@ An intelligent conversational AI chatbot built with Streamlit that supports both
 
 ## 🚀 Installation
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/AI-Chatbot-with-PDF-Support.git
-   cd AI-Chatbot-with-PDF-Support
-   ```
-
-2. **Install dependencies**:
+1. **Install dependencies**:
    ```bash
    pip install streamlit langchain langchain-groq langchain-community faiss-cpu pypdf python-dotenv sentence-transformers
    ```
 
-3. **Set up environment variables**:
+2. **Set up environment variables**:
    Create a `.env` file in the project root:
    ```env
    GROQ_API_KEY=your_groq_api_key_here
    ```
 
-4. **Run the application**:
+3. **Run the application**:
    ```bash
    streamlit run app.py
    ```
